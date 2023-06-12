@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am an iOS developer and chemical engineer.
+
+### Skills
+- SwiftUI
+- UIKit
+- Coredata
+- Firebase
 
 <!--
 **AndresMarq/AndresMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
