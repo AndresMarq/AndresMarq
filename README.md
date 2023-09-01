@@ -1,4 +1,4 @@
-## iOS developer and Chemical Engineer
+## iOS Developer and Chemical Engineer
 
 ### Skills
 - SwiftUI
