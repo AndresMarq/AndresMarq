@@ -1,5 +1,4 @@
-### Hi there 👋
-I am an iOS developer and chemical engineer.
+### I am an iOS developer and chemical engineer
 
 ### Skills
 - SwiftUI
@@ -7,6 +6,10 @@ I am an iOS developer and chemical engineer.
 - Coredata
 - Firebase
 - MapKit
+
+### [Published Apps](https://apps.apple.com/ca/developer/andres-alfonso-marquez-socorro/id1586749692)
+
+### [Portfolio](https://github.com/AndresMarq/iOS-Developer-Portfolio)
 
 <!--
 **AndresMarq/AndresMarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
