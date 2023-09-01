@@ -1,4 +1,4 @@
-### I am an iOS developer and chemical engineer
+## iOS developer and Chemical Engineer
 
 ### Skills
 - SwiftUI
